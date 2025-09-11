@@ -2,6 +2,8 @@
 Página estática para divulgação da MANHATTAN COFFEE HOUSE
 
 ## Funcionalidades
+* Links para os setores INFORMAÇÕES, CONTATOS e HORÁRIOS na página principal
+* Efeito PARALLAX
 
 ## Tecnologias Utilizadas
 * HTML
