@@ -1,4 +1,4 @@
-# Manhattan-Coffee-House
+# Projeto Manhattan-Coffee-House
 Página estática para divulgação da MANHATTAN COFFEE HOUSE
 
 ## Funcionalidades
